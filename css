@@ -1,0 +1,83 @@
+ {box-sizing: border-box}
+
+body{background-color: silver;}
+.header{width: 100%; 
+   
+   padding: 15px;
+   background-color: rgb(81, 101, 121);
+   float: left;}
+   body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+  }
+  
+  .navbar {
+    overflow: hidden;
+    background-color: #333;
+    
+     
+  }
+  /*Style for home og contact knappene sin tekst og størelse*/
+  .navbar a {
+    float: left;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding: 20px 35px;
+    text-decoration: none;
+  
+  }
+  
+  .subnav {
+    float: left;
+    overflow: hidden;
+  }
+  /* knappene FAG og Ekstra knapp uten hover*/
+  .subnav .subnavbtn {
+    font-size: 20px;  
+    border: none;
+    outline: none;
+    color: white;
+    padding: 20px 35px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+   
+    
+    
+  }
+  /*bakgrunnsfarge for navbar og subnav når du hover*/
+  .navbar a:hover, .subnav:hover .subnavbtn {
+    background-color: rgb(120, 0, 0);
+  }
+/*bakrunn for linkene uten hover*/
+  .subnav-content {
+    display: none;
+    position: absolute;
+    left: 0;
+    background-color: rgb(120, 0, 0);
+    width: 100%;
+    z-index: 1;
+  }
+  /*link tekst uten hover*/
+  .subnav-content a {
+    float: left;
+    color: white;
+    text-decoration: none;
+  }
+  /*Linkene med hover*/
+  .subnav-content a:hover {
+      background-color: rgb(83, 3, 3) ;
+    color: white;
+  }
+  
+  .subnav:hover .subnav-content {
+    display: block;
+  }
+  p{font-size: 20px;}
+  img{height:640px;
+  float: left;} 
+  h1{text-align: center;
+     font-size: 300%;
+  
+  }
