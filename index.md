@@ -28,7 +28,7 @@
       
       </div>
       <!--Style sheet Link-->
-    <link rel="stylesheet" type="text/css" href="Web page style.css">
+    <link rel="stylesheet" type="text/css" href="_config.ylm">
 <div class="header">
     <!--Skriftlig innhold-->
     <h1>Informasjonsteknologi og Medieproduksjon</h1>
