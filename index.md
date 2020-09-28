@@ -28,7 +28,7 @@
       
       </div>
       <!--Style sheet Link-->
-    <link rel="stylesheet" href="Style.css">
+    <link rel="stylesheet" href="/Style.css">
 <div class="header">
     <!--Skriftlig innhold-->
     <h1>Informasjonsteknologi og Medieproduksjon</h1>
