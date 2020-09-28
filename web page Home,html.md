@@ -29,7 +29,7 @@
       
       </div>
       <!--Style sheet Link-->
-    <link rel="stylesheet" type="text/css" href="Web page style.css">
+    <link rel="stylesheet" type="text/css" href="_config">
 <div class="header">
     <!--Skriftlig innhold-->
     <h1>Informasjonsteknologi og Medieproduksjon</h1>
