@@ -29,7 +29,7 @@
       
       </div>
       <!--Style sheet Link-->
-    <link rel="stylesheet" href="TheoKV69.github.io/css">
+    <link rel="stylesheet" href="https://github.com/TheoKV69/TheoKV69.github.io/blob/master/css">
 <div class="header">
     <!--Skriftlig innhold-->
     <h1>Informasjonsteknologi og Medieproduksjon</h1>
