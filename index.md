@@ -29,7 +29,7 @@
       
       </div>
       <!--Style sheet Link-->
-    <link rel="stylesheet" href="https://github.com/TheoKV69/TheoKV69.github.io/blob/master/css">
+    <link rel="stylesheet" href="Web page style.css">
 <div class="header">
     <!--Skriftlig innhold-->
     <h1>Informasjonsteknologi og Medieproduksjon</h1>
@@ -44,4 +44,3 @@
 <img src="https://mk0peerspaceresco37i.kinstacdn.com/wp-content/uploads/2019/03/camera-819359_1280-1200x600.jpg" alt="image not found">
 </body>
 </html>
-
