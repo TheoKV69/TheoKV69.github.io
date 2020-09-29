@@ -28,7 +28,7 @@
       
       </div>
       <!--Style sheet Link-->
-    <link rel="stylesheet" type="text/css" href="https://TheoKV69.github.io/Web page style.css">
+    <link rel="stylesheet" type="text/css" href="https://TheoKV69.github.io/Webpage_style.css">
 <div class="header">
     <!--Skriftlig innhold-->
     <h1>Informasjonsteknologi og Medieproduksjon</h1>
