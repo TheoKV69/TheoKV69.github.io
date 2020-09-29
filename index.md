@@ -1,4 +1,4 @@
-<!doctype Html>
+<!DOCTYPE html>
 <html>
 <head>
   <link rel="icon" href="favicon.ico">
