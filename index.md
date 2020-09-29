@@ -1,6 +1,8 @@
+<!doctype Html>
 <html>
 <head>
   <link rel="icon" href="favicon.ico">
+   <link rel="stylesheet" type="text/css" href="https://TheoKV69.github.io/Webpage_style.css">
   <title>Home</title>
     <div class="navbar">
         <a href="file:///C:/Users/theod/OneDrive/Dokumenter/Nettside%20html/web%20page%20Home.html">Home</a>
@@ -27,8 +29,6 @@
       </div>
       
       </div>
-      <!--Style sheet Link-->
-    <link rel="stylesheet" type="text/css" href="https://TheoKV69.github.io/Webpage_style.css">
 <div class="header">
     <!--Skriftlig innhold-->
     <h1>Informasjonsteknologi og Medieproduksjon</h1>
